@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">じゃんけんやろうね！</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_janken">JankenActivity</string>
+    <string name="title_activity_ending">EndingActivity</string>
+</resources>
