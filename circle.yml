@@ -1,3 +1,9 @@
-test:
-    override:
-        - ./gradlew assembleDebug
+general:
+  artifacts:
+    - "app/build/outputs/apk/app-release-unsigned.apk"
+
+deployment:
+  master:
+    branch: master
+    commands:
+      - ./gradlew assembleRelease
