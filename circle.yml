@@ -1,6 +1,6 @@
 general:
   artifacts:
-    - "app/build/outputs/apk/Jankenpon-release-unsigned.apk"
+    - "app/build/outputs/apk/app-release-unsigned.apk"
 
 deployment:
   master:
